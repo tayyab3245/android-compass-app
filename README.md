@@ -2,12 +2,22 @@
 A minimal Android-native compass app built with React Native, inspired by Apple's Compass. It provides real-time orientation and location data, along with visual guidance to solar and lunar positions. Designed for clarity, responsiveness, and modern UI standards.
 
 
+## Screenshots
+
+### App Icon
+<img src="./assets/compass-app-icon.png" alt="App Icon" width="96"/>
+
+### Compass UI
+<img src="./assets/screens/compass-app-ui.png" alt="Compass UI Screenshot" height="480"/>
+
+
 ## Features
 - Live compass using device orientation sensors
 - Current geolocation display (latitude, longitude, altitude)
 - Directional indicators for the sun and moon
 - Smooth, animated interface (Reanimated 3)
 - Optional haptic feedback for key interactions
+
 
 ## Tech Stack
 - React Native 0.78 (Hermes enabled)

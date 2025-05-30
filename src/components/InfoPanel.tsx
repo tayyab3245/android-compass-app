@@ -1,3 +1,4 @@
+//InfoPanel.tsx
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 import { getDirection } from '../utils/getDirection';
