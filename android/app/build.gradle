@@ -117,3 +117,9 @@ dependencies {
         implementation jscFlavor
     }
 }
+
+sourceSets {
+    main {
+        java.srcDirs = ["src/main/java"]
+    }
+}
