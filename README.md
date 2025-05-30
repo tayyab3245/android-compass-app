@@ -3,6 +3,8 @@ A minimal Android-native compass app built with React Native, inspired by Apple'
 
 ![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may share and adapt the work, but commercial use is not permitted.
+
 
 ## Screenshots
 
